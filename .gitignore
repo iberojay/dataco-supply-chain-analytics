@@ -1,0 +1,12 @@
+.DS_Store
+
+# Large datasets
+data/raw/
+excel/*.csv
+excel/*.xlsx
+
+# Backup and temporary files
+*.mwb.bak
+*AutoRecovered*
+*.tmp
+~$*
