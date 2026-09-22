@@ -4,6 +4,7 @@
 data/raw/
 excel/*.csv
 excel/*.xlsx
+power-bi/*.csv
 
 # Backup and temporary files
 *.mwb.bak
